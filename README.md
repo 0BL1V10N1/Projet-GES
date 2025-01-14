@@ -3,6 +3,8 @@
     <h1>Projet-GES</h1>
 </div>
 
+> ⚠️ This project is no longer maintained !
+
 # 📗 Table des matières
 - [📖 A propos du projet](#à-propos)
   - [🚀 Exemple](#exemple)
